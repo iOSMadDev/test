@@ -18,7 +18,7 @@ class ViewController: UIViewController
     @IBAction func tapButton(_ sender: UIButton) {
     
         print(testClass.currentVar)
-        testClass.currentVar = 33
+        testClass.currentVar = 31
         print(testClass.currentVar)
         
     }
